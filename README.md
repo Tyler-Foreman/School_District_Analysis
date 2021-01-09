@@ -19,7 +19,7 @@ After creating a Jupyter notebook to manipulate and structure the data we needed
 
 **Refactored District Summary**
 
-![Refactored School District Summary](/Resources/initial_district_analysis.png "Initial School District Summary")
+![Refactored School District Summary](/Resources/refactored_district_analysis.png "Initial School District Summary")
 
 ## How is the school summary affected?
 - When omitting the THS 9th grade test scores, there is a small impact to the average scores and % passing.
