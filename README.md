@@ -15,11 +15,11 @@ After creating a Jupyter notebook to manipulate and structure the data we needed
 
 ** Initial District Summary **
 
-![Initial School District Summary](/Resources/initial_district_summary.png "Initial School District Summary")
+![Initial School District Summary](/Resources/initial_district_analysis.png "Initial School District Summary")
 
 ** Refactored District Summary **
 
-![Refactored School District Summary](/Resources/initial_district_summary.png "Initial School District Summary")
+![Refactored School District Summary](/Resources/initial_district_analysis.png "Initial School District Summary")
 
 ## How is the school summary affected?
 - When omitting the THS 9th grade test scores, there is a small impact to the average scores and % passing.
@@ -28,11 +28,11 @@ After creating a Jupyter notebook to manipulate and structure the data we needed
 
 ** Initial School Summary **
 
-![Initial School Summary](/Resources/initial_school_summary.png "Initial School Summary")
+![Initial School Summary](/Resources/initial_school_analysis.png "Initial School Summary")
 
 ** Refactored School Summary **
 
-![Refactored School Summary](/Resources/refactored_school_summary.png "Refactored School Summary")
+![Refactored School Summary](/Resources/refactored_school_analysis.png "Refactored School Summary")
 
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other high schools?
 - There is really no impact in replacing the 9th grade test scores for THS in how they ranked against the other schools. Thomas High School was the second best ranked school, in terms of overall passing percentage, prior to replacing the 9th grade test scores. They retained this position as the second best ranked school in our updated analysis.
