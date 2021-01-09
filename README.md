@@ -13,11 +13,11 @@ After creating a Jupyter notebook to manipulate and structure the data we needed
 - The average math score is slightly impacted, dropping 0.1 points and the average reading score is unchanged.
 - The passing percentages are also slightly impacted; the percentage passing math falls 0.2 points. The percentage passing reading falls 0.1 points. The percentage overall passing is impacted the most and falls 0.3 points. 
 
-** Initial District Summary **
+**Initial District Summary**
 
 ![Initial School District Summary](/Resources/initial_district_analysis.png "Initial School District Summary")
 
-** Refactored District Summary **
+**Refactored District Summary**
 
 ![Refactored School District Summary](/Resources/initial_district_analysis.png "Initial School District Summary")
 
@@ -26,22 +26,22 @@ After creating a Jupyter notebook to manipulate and structure the data we needed
 - The average math score for THS fell 0.06 points. Surprisingly the average reading score for THS increased 0.05 points in this change.
 - The passing percentages were also slightly impacted; the percentage passing math fell 0.09 points. The percentage passing reading fell 0.29 points. The percentage overall passing is impacted the most, falling 0.32 points.
 
-** Initial School Summary **
+**Initial School Summary**
 
 ![Initial School Summary](/Resources/initial_school_analysis.png "Initial School Summary")
 
-** Refactored School Summary **
+**Refactored School Summary**
 
 ![Refactored School Summary](/Resources/refactored_school_analysis.png "Refactored School Summary")
 
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other high schools?
 - There is really no impact in replacing the 9th grade test scores for THS in how they ranked against the other schools. Thomas High School was the second best ranked school, in terms of overall passing percentage, prior to replacing the 9th grade test scores. They retained this position as the second best ranked school in our updated analysis.
 
-** Initial Top Schools Summary **
+**Initial Top Schools Summary**
 
 ![Initial Top Schools Summary](/Resources/initial_top_school_summary.png "Initial Top Schools Summary")
 
-** Refactored Top Schools Summary **
+**Refactored Top Schools Summary**
 
 ![Refactored Top Schools Summary](/Resources/refactored_top_school_summary.png "Refactored Top Schools Summary")
 
